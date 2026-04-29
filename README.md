@@ -49,6 +49,8 @@ imageio>=2.31.0
 numpy>=1.24.0
 ```
 
+<img src="example_output/gif_demo.gif" width="700" alt="showcase">
+
 ### 🚀 How to Use
 
 1. **Open your terminal** in the folder containing your images or GIFs.
@@ -109,39 +111,6 @@ The executable will be in `dist/showcase.exe`.
 - **4 أبعاد لتنسيق الصورة:** 16:9، 9:16، 1:1، 4:3
 - **واجهة تفاعلية:** التنقل بأسهم الكيبورد، التحديد بـ SPACE/ENTER
 
-### 📦 التثبيت
-
-```bash
-pip install showcase6
-```
-
-أو التثبيت من المصدر:
-
-```bash
-git clone https://github.com/yourname/showcase6.git
-cd showcase6
-pip install -r requirements.txt
-python show.py
-```
-
-### 🛠️ المتطلبات
-
-```
-PySide6>=6.5.0
-imageio>=2.31.0
-numpy>=1.24.0
-```
-
-### 🚀 طريقة الاستخدام
-
-1. **افتح الطرفية (Terminal)** داخل المجلد الذي يحتوي على صورك أو ملفات الـ GIF.
-2. **شغّل الأمر:**
-
-```bash
-showcase
-# أو مباشرةً:
-python show.py
-```
 
 3. **اتبع القائمة التفاعلية ذات المراحل الأربع:**
 
@@ -157,14 +126,11 @@ python show.py
 ### 📂 الصيغ المدعومة
 `.png` `.jpg` `.jpeg` `.webp` `.bmp` `.gif`
 
-### 🏗️ بناء ملف تنفيذي
-
-```bash
-pip install pyinstaller
-pyinstaller showcase.spec
-```
 
 الملف التنفيذي سيكون في `dist/showcase.exe`.
 
 ### 📄 الرخصة
 MIT License
+
+
+
