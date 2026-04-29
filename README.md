@@ -34,7 +34,7 @@ pip install showcase6
 Or install from source:
 
 ```bash
-git clone https://github.com/yourname/showcase6.git
+git clone https://github.com/YASSER-27/showcase.git
 cd showcase6
 pip install -r requirements.txt
 python show.py
