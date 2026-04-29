@@ -29,6 +29,7 @@
 
 ```bash
 pip install showcase6
+"In the terminal, type the following word and press Enter: showcase"
 ```
 
 Or install from source:
