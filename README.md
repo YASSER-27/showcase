@@ -21,7 +21,7 @@
 - **4 Canvas Ratios:** 16:9, 9:16, 1:1, 4:3
 - **Interactive CLI:** Navigate with arrow keys, select with SPACE/ENTER
 
-![showcase_1777459524](gif_example.gif)
+![showcase](gif_example.gif)
 
 
 ### 📦 Installation
