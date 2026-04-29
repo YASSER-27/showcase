@@ -28,7 +28,7 @@
 ### 📦 Installation
 
 ```bash
-pip install showcase6
+pip install showcase
 ```
 
 Or install from source:
