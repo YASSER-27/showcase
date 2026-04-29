@@ -21,6 +21,9 @@
 - **4 Canvas Ratios:** 16:9, 9:16, 1:1, 4:3
 - **Interactive CLI:** Navigate with arrow keys, select with SPACE/ENTER
 
+![showcase_1777459524](gif_example.gif)
+
+
 ### 📦 Installation
 
 ```bash
@@ -78,13 +81,15 @@ pyinstaller showcase.spec
 
 The executable will be in `dist/showcase.exe`.
 
-
+**All Templates**
+![showcase_1777459524](example_output/showcase6_preview_sheet.png)
 
 
 | Image | Image |
 |---|---|
 | ![showcase_1777459524](example_output/showcase_1777459524.png) | ![showcase_1777459508](example_output/showcase_1777459508.png) |
 | ![showcase_1777459459](example_output/showcase_1777459459.png) | ![showcase_1777459438](example_output/showcase_1777459438.png) |
+
 
 
 
